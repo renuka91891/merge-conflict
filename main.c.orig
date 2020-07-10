@@ -9,16 +9,20 @@ Initial Security()
 {
  //Sample Code
 }
-
+<<<<<<< HEAD
 feature1(){
 //faeture1  is added
+=======
 security patch()
 {
-
+>>>>>>> master
 
 //security patch added
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 
 }
